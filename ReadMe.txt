@@ -1,0 +1,1 @@
+Game is located at: Card-inal_Sins\Build\WindowsNoEditor\WindowsNoEditor\CCGToolkit.exe
